@@ -15,6 +15,6 @@
 
 ## Связаться со мной:
 
-- ✉️ Email: [egorova_sofya@example.com](mailto:egorova_sofya@bk.ru)
+- ✉️ Email: [egorova_sofya@bk.ru](mailto:egorova_sofya@bk.ru)
 
 ✨ **Всегда открыта для интересных проектов и сотрудничества!**
